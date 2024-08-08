@@ -10,7 +10,7 @@ HutaoCloud机场，，全节点IEPL专线，移动 + CN2 隧道中继线路，�
 
 全平台支持。1111111
 
-## HutaoCloud优惠码111111111
+## HutaoCloud优惠码1111111111
 
 新用户专属95折优惠码：hutao
 
